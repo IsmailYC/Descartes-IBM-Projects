@@ -1,0 +1,114 @@
+MOTIF D'HOSPITALISATION
+Choc septique.
+PARAMÈTRES VITAUX ET DONNÉES BIOMÉTRIQUES A L'ENTRÉE
+: Poids : 48 kg, taille : 155 cm, IMC : 20.0 kg/m2, SC 1.4 m2
+Evaluation de la douleur :
+Localisation: Douleurs abdominales diffuses EVA 7/10 il y a 2 jours
+Non évaluable ce jour
+EXAMEN CLINIQUE A L'ENTRÉE
+Score de marbrures 0/5, PA 123/62 mmHg (sous 3.5 mg/h Noradrénaline), Pouls 140/min, SpO2 99
+sous VAC FiO2 50%, PEP 5.3
+FR 16/min T°C Glasgow (non évaluable patiente sédatée) Diurèse des 4 premières heures : cc
+Examen cardiovasculaire
+Pas de marbrure, temps de recoloration cutanée < 3s, bruits du cœur réguliers sans souffle perçu, pas
+de signe d’insuffisance cardiaque droite ni gauche, pouls distaux perçus, mollets souples et indolores,
+Hommans -, auscultation TSA normale.
+Examen pulmonaire
+Murmure vésiculaire bilatéral et symétrique sans bruit surajouté sous VAC 50% FiO2
+Examen abdominal
+Abdomen post opératoire, pléthorique, peu dépressible, douleur non évaluable, pas de masse perçue,
+pas d’hépatosplénomégalie, orifices herniaires libres, pas de signe d’insuffisance hépatocellulaire ni
+d’hypertension portale, bruits hydroaériques perçus, cicatrice médiane de laparotomie récente, d'aspect
+non inflammatoire, pas de défense ni contracture
+Examen neurologique
+Patiente sédatée, ventilée, pupilles intermédiaires symétriques réactives et consensuelles, paires
+crâniennes normales, RCP indifférents, ROT diminués bilatéraux et symétriques, pas de syndrome
+méningé.
+Examen uronéphrologique
+Fosses lombaires libres.
+Aires ganglionnaires
+Libres.
+Examen cutanéomuqueux
+Pas de lésion significative.
+Examen ORL
+Etat buccodentaire satisfaisant
+EXAMENS COMPLÉMENTAIRES RÉALISÉS PENDANT LE SÉJOUR
+Biologie
+GAZ DU SANG pH 7.54 PO 70 mmHg PCO 23 mmHg Lactates 4.7 mmol/L en VAC Vt 450 FR 25
+2 2
+FiO2 50%
+NUMERATION FORMULE SANGUINE : Leucocytes 5.9 G/L Hb 8.5 g/dL VGM 89.5 fl Plaquettes
+292 G/L Polynucléaires Neutrophiles 4.51 G/L Polynucléaires Eosinophiles 0.01 G/L Lymphocytes
+0.80 G/L
+HEMOSTASE : TP 67 % TCA 0.83 Fibrinogène 3.54 g/L Facteur V 83 %
+IONOGRAMME SANGUIN :
+Sodium 142 mmol/L Potassium 3.3 mmol/L Chlorure 103 mmol/L Bicarbonate 18 mmol/L
+Protéines sériques 61 g/L Urée 2 mmol/L Créatinine 67 µmol/L Calcium corrigé 2.27 mmol/L
+Phosphates 0.98 mmol/L Magnésium 0.38 mmol/L Bilirubine totale 6 µmol/L ASAT 27 U/L
+ALAT 15 U/L Gamma GT 29 U/L Phosphatases alcalines 49 U/L PCT 1.77 µg/L CRP 153
+Imagerie
+TDM thoraco-abdominale:
+Épanchement intra-abdominal liquidien de moyenne abondance avec prise de contraste des feuillets
+péritonéaux. Pas d'argument pour une désunion de l'anastomose. Apparition d'une dilatation discrète
+des cavités pyélocalicielles droites comparativement à l'examen précédent, pouvant être en rapport
+avec une plaie urétérale, à confronter aux données opératoires. Probable pyélite gauche. Infarctus du
+pôle antéro-supérieur de la rate. Pas de syndrome occlusif mais présence d'une distension gastrique
+importante.
+TDM thoraco-abdominale:
+Stabilité de l'épanchement intra-péritonéal et du rehaussement péritonéal avec possible évolution vers
+l'organisation de l'épanchement au niveau de la fosse iliaque gauche. Non opacification de l'uretère
+pelvien droit sans dilatation urétérale d'amont sans pouvoir affirmer une sténose urétérale. Dilatation
+modérée pyélo-calicielle droite. Examen à contrôler dans quelques jours avec des passages tardifs
+pour l'opacification de l'uretère pelvien droit. Probable pneumopathie lobaire inférieur droite.
+ECG
+Tachycardie Sinusale, rythme régulier, Fc 139 bpm. PR 98 ms, axe normal, QTc 456 ms, pas de
+troubles de repolarisation
+Autres
+Chirurgie avec laparotomie xypho-pubienne, hystérectomie totale non conservatrice,
+curage lombo-aortique et pelviens bilatéraux, omentectomie, résection grélique avec anastomose
+latéro-latérale manuelle.
+ETT 24/06: FEVG 40%, hypokinésie antéroseptale, E/A 0.6, E/E' 6, ITVsAo 8, VD non dilaté de
+cinétique conservée, StDTI 20 cm/s, PAPS 20+POD, VCI 14 mm non modulée, péricarde sec
+Examens en attente de résultats
+Antigénémie aspergillaire
+ÉVOLUTION
+Sur le plan infectieux:
+Choc septique à E Coli retrouvé dans les urines le 23/04, sur un drain de liquide péritonéal le 24/06 et
+une hémoculture du 24/06. Traitement probabiliste par MERONEM 3 g/jour et AMIKACINE du 24/06 au
+25/06 dans le contexte d'antécédents de colonisation à BLSE, relais par CLAFORAN 3 g/jour et
+FLAGYL 1,5 g/jour jusqu'au 02/07.
+Cartolevure positive à Candida Glabrata le 26/06 à 4 sites sur 8, incluant une aspiration trachéale et un
+liquide de drainage péritonéal. Traitement par CANCIDAS 70 mg J1 puis 50 mg/jour.
+Présence de rares colonies d'Aspergillus fumigatus sur aspiration trachéale du 26/06. Switch pour
+Triflucan le 3/7 (dose de charge à 800 mg le 03/07 puis 400 mg/jour à partir du 04/07)
+Sur le plan hémodynamique:
+Etat de choc sous NORADRENALINE jusqu'à 3,5 mg/h, expansion volémique et traitement par
+hydrocortisone. Arrêt du support vasopresseur le 25/06.
+Sur le plan ventilatoire:
+Admise intubée, sédatée et ventilée. Extubation le 28/06. Actuellement eupnéique sous
+oxygénothérapie 2 l/min.
+Sur le plan digestif:
+Ileus réflexe avec sonde gastrique en aspiration jusqu'au 29/06, retirée et reprise d'une alimentation
+mixée.
+Admise avec deux drains péritonéaux en place (gauche et droit), retrait du drain droit le 29/06.
+Douleurs abdominales intenses, du flanc droit, sans perturbation du bilan hépatique ni arrêt du transit.
+Suspicion de plaie urétérale droite suite à la chirurgie carcinologique du 18/06 devant une péritonite à E
+Coli associée à une image de dilatation pyélocalicielle droite, sans confirmation scanographique sur les
+examens du 23/06 et du 28/06.
+Diarrhées réfractaires sous Imodium et Tiorfan. Coproculture et recherche de Clostridium difficile
+négative. Refaire les prélèvements si persistance des symptômes et dosage de la TSH.
+Sur le plan métabolique:
+Hypokaliémie jusqu'à 2.8 mmol/L sur pertes digestives. Supplémentation intra-veineuse.
+Etat clinique à la sortie:
+- GCS 15, patiente orientée dans le temps et l'espace, motricité présente aux quatre membres.
+- abdomen distendu et douloureux au flanc droit avec EVA 7/10, fosses iliaques libres
+- apyrétique, eupnéique sous oxygénothérapie 1 l/min
+Sur le plan algique:
+Douleurs diffuses prédominant à l'abdomen soulagées par Paracétamol, Acupan et Morphine SC 5
+mg/4h.
+PROJET DIAGNOSTIQUE ET THÉRAPEUTIQUE
+Switch Cancidas pour TRIFLUCAN si antigénémie aspergillaire négative
+Surveillance clinique abdominale
+AU TOTAL
+Choc septique sur péritonite à E Coli
+Ileus compliquée d'hypokaliémie

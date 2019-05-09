@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bokeh Plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.css" type="text/css" />
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.13.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.13.min.js"></script>
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.13.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+        <style>
+          html {
+            width: 100%;
+            height: 100%;
+          }
+          body {
+            width: 90%;
+            height: 100%;
+            margin: auto;
+          }
+        </style>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="d3493ed1-73c5-4aae-a5f5-235188b07ae8"></div>
+        </div>
+        
+        <script type="application/json" id="5d6e4561-8f2a-4aa9-aa34-8d738167afe0">
+          {"da86f195-91b0-48ea-904b-87eb28453b69":{"roots":{"references":[{"attributes":{"callback":null,"options":["LUNG3-01","LUNG3-02","LUNG3-03","LUNG3-04","LUNG3-05","LUNG3-06","LUNG3-07","LUNG3-08","LUNG3-09","LUNG3-10","LUNG3-11","LUNG3-12","LUNG3-13","LUNG3-14","LUNG3-15","LUNG3-16","LUNG3-17","LUNG3-18","LUNG3-19","LUNG3-20","LUNG3-21","LUNG3-22","LUNG3-23","LUNG3-24","LUNG3-25","LUNG3-26","LUNG3-27","LUNG3-28","LUNG3-29","LUNG3-30","LUNG3-31","LUNG3-32","LUNG3-33","LUNG3-34","LUNG3-35","LUNG3-36","LUNG3-37","LUNG3-38","LUNG3-39","LUNG3-40","LUNG3-41","LUNG3-42","LUNG3-43","LUNG3-44","LUNG3-45","LUNG3-46","LUNG3-47","LUNG3-48","LUNG3-49","LUNG3-50","LUNG3-51","LUNG3-52","LUNG3-53","LUNG3-54","LUNG3-55","LUNG3-56","LUNG3-57","LUNG3-58","LUNG3-59","LUNG3-60","LUNG3-61","LUNG3-62","LUNG3-63","LUNG3-64","LUNG3-65","LUNG3-66","LUNG3-67","LUNG3-68","LUNG3-69","LUNG3-70","LUNG3-71","LUNG3-72","LUNG3-73","LUNG3-74","LUNG3-75","LUNG3-76","LUNG3-77","LUNG3-78","LUNG3-79","LUNG3-80","LUNG3-81","LUNG3-82","LUNG3-83","LUNG3-84","LUNG3-85","LUNG3-86","LUNG3-87","LUNG3-88","LUNG3-89"],"title":"Patient:","value":"LUNG3-01"},"id":"3147d817-5d85-420d-bef2-b08e9c79d906","type":"Select"},{"attributes":{"button_type":"success","callback":null,"icon":null,"label":"Statistics"},"id":"7820be58-975a-40fb-a511-36ee2fb27af7","type":"Button"},{"attributes":{"children":[{"id":"50f4c5df-a8af-4837-be7e-412049ab01cb","type":"WidgetBox"}]},"id":"fd7ba20a-efc9-4b96-ba14-d5cb6103e1eb","type":"Column"},{"attributes":{"button_type":"success","callback":null,"icon":null,"label":"General","subscribed_events":["button_click"]},"id":"562067ee-9ffe-4352-80e9-73ea57e6bf1f","type":"Button"},{"attributes":{"button_type":"success","callback":null,"icon":null,"label":"Tree"},"id":"0894691f-7f01-46d4-b7f1-0c7b9042c88c","type":"Button"},{"attributes":{"children":[{"id":"eeddb954-e02f-4e45-b2b1-57fe270ff6cc","type":"WidgetBox"},{"id":"a2a952b9-6842-4daa-a170-56a6c1c43d50","type":"WidgetBox"},{"id":"137b6e60-bb90-4602-901b-d012932277ce","type":"WidgetBox"},{"id":"411557ad-52b5-49d2-9f84-98543a8506b4","type":"WidgetBox"}]},"id":"c72471a3-8c5d-4409-9d32-0ebbd5dbe07b","type":"Row"},{"attributes":{"children":[{"id":"4eb62479-9ea0-4095-bbeb-d7affbc387ab","type":"Button"}]},"id":"eeddb954-e02f-4e45-b2b1-57fe270ff6cc","type":"WidgetBox"},{"attributes":{"children":[{"id":"562067ee-9ffe-4352-80e9-73ea57e6bf1f","type":"Button"}]},"id":"a2a952b9-6842-4daa-a170-56a6c1c43d50","type":"WidgetBox"},{"attributes":{"children":[{"id":"c72471a3-8c5d-4409-9d32-0ebbd5dbe07b","type":"Row"},{"id":"fd7ba20a-efc9-4b96-ba14-d5cb6103e1eb","type":"Column"}]},"id":"e331d493-69d4-4af0-ae95-4d47e08563fa","type":"Column"},{"attributes":{"children":[{"id":"3147d817-5d85-420d-bef2-b08e9c79d906","type":"Select"}]},"id":"50f4c5df-a8af-4837-be7e-412049ab01cb","type":"WidgetBox"},{"attributes":{"children":[{"id":"7820be58-975a-40fb-a511-36ee2fb27af7","type":"Button"}]},"id":"137b6e60-bb90-4602-901b-d012932277ce","type":"WidgetBox"},{"attributes":{"button_type":"success","callback":null,"icon":null,"label":"Patient","subscribed_events":["button_click"]},"id":"4eb62479-9ea0-4095-bbeb-d7affbc387ab","type":"Button"},{"attributes":{"children":[{"id":"0894691f-7f01-46d4-b7f1-0c7b9042c88c","type":"Button"}]},"id":"411557ad-52b5-49d2-9f84-98543a8506b4","type":"WidgetBox"}],"root_ids":["e331d493-69d4-4af0-ae95-4d47e08563fa"]},"title":"Bokeh Application","version":"0.12.13"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('5d6e4561-8f2a-4aa9-aa34-8d738167afe0').textContent;
+                  var render_items = [{"docid":"da86f195-91b0-48ea-904b-87eb28453b69","elementid":"d3493ed1-73c5-4aae-a5f5-235188b07ae8","modelid":"e331d493-69d4-4af0-ae95-4d47e08563fa"}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing")
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    </body>
+</html>

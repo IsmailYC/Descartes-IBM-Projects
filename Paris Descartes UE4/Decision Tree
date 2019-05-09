@@ -1,0 +1,25 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<['merck-NM_001944_a_at'] &le; 6.616<br/>gini = 0.484<br/>samples = 56<br/>value = [33, 23]<br/>class = Adenocarcinoma>, fillcolor="#e581394d"] ;
+1 [label=<['merck2-M76482_at'] &le; 4.301<br/>gini = 0.108<br/>samples = 35<br/>value = [33, 2]<br/>class = Adenocarcinoma>, fillcolor="#e58139f0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<['merck2-M76482_at'] &le; 2.359<br/>gini = 0.059<br/>samples = 33<br/>value = [32, 1]<br/>class = Adenocarcinoma>, fillcolor="#e58139f7"] ;
+1 -> 2 ;
+3 [label=<gini = 0.0<br/>samples = 18<br/>value = [18, 0]<br/>class = Adenocarcinoma>, fillcolor="#e58139ff"] ;
+2 -> 3 ;
+4 [label=<['merck2-M76482_at'] &le; 2.372<br/>gini = 0.124<br/>samples = 15<br/>value = [14, 1]<br/>class = Adenocarcinoma>, fillcolor="#e58139ed"] ;
+2 -> 4 ;
+5 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1]<br/>class = Squamous Cell Carcinoma>, fillcolor="#399de5ff"] ;
+4 -> 5 ;
+6 [label=<gini = 0.0<br/>samples = 14<br/>value = [14, 0]<br/>class = Adenocarcinoma>, fillcolor="#e58139ff"] ;
+4 -> 6 ;
+7 [label=<['merck2-M76482_at'] &le; 5.738<br/>gini = 0.5<br/>samples = 2<br/>value = [1, 1]<br/>class = Adenocarcinoma>, fillcolor="#e5813900"] ;
+1 -> 7 ;
+8 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1]<br/>class = Squamous Cell Carcinoma>, fillcolor="#399de5ff"] ;
+7 -> 8 ;
+9 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]<br/>class = Adenocarcinoma>, fillcolor="#e58139ff"] ;
+7 -> 9 ;
+10 [label=<gini = 0.0<br/>samples = 21<br/>value = [0, 21]<br/>class = Squamous Cell Carcinoma>, fillcolor="#399de5ff"] ;
+0 -> 10 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

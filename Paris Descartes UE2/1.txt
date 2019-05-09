@@ -1,0 +1,116 @@
+
+MOTIF D'HOSPITALISATION
+Syndrome confusionnel.
+PARAMÈTRES VITAUX ET DONNÉES BIOMÉTRIQUES A L'ENTRÉE
+Le 04/06/2017 : Poids : 80 kg, taille : 155 cm, IMC : 34.8 kg/m2, SC 1.8 m2
+Evaluation de la douleur :
+EXAMEN CLINIQUE A L'ENTRÉE
+Score de marbrures 0/5 PA (sous …) 115/72 mmHg Pouls 89 /min SpO2 98% sous 1 L d’O2 FR
+15 /min T 36.8 °C Dextro 1.9 g/L Glasgow 13 Diurèse des 4 premières heures : cc
+Examen cardiovasculaire
+Pas de marbrure, temps de recoloration cutanée < 3s, pas de douleur thoracique, bruits du cœur
+réguliers sans souffle perçu, pas de signe d’insuffisance cardiaque droite ni gauche, pouls distaux
+perçus, mollets souples et indolores.
+Examen pulmonaire
+Toux sans expectoration, pas d’hémoptysie, eupnéique, pas de signe de détresse respiratoire aiguë,
+murmure vésiculaire bilatéral et symétrique sans bruit surajouté.
+Examen abdominal
+Pas de diarrhée, pas de vomissement, abdomen pléthorique avec signe du glaçon, matité déclive,
+hépatosplénomégalie, orifices herniaires libres, circulation veineuse collatérale abdominale et
+thoracique, pas d'angiome stellaire.
+Examen neurologique
+Patiente somnolente avec confusion temporelle mais orientation spatiale, pas de céphalée, pupilles
+intermédiaires symétriques réactives, pas de déficit sensitivomoteur, paires crâniennes normales, RCP
+indifférents, ROT bilatéraux et symétriques, pas de syndrome méningé.
+Examen uronéphrologique
+Pas de signe fonctionnel urinaire. Fosses lombaires libres.
+Aires ganglionnaires
+Libres.
+Examen cutanéomuqueux
+Purpura sénile des avants bras.
+Examen ORL
+Pas de trouble de déglutition, pas de dysphonie, état buccodentaire satisfaisant.
+EXAMENS COMPLÉMENTAIRES RÉALISÉS PENDANT LE SÉJOUR
+Biologie
+GAZ DU SANG SOUS d’oxygène
+Ph 7.573 PO 100 mmHg PCO 30.9 mmHg Lactate 3.7 mmol/L HCO3- 28.6 mmol/l
+2 2
+NUMERATION FORMULE SANGUINE : Leucocytes 6.0 G/L Hb 9.5 g/dL VG 77.9 fl Plaquettes 127
+G/L Polynucléaires Neutrophiles 4.67 G/L Polynucléaires Eosinophiles 0.07 G/L Polynucléaires
+Basophiles 0.01 G/l Lymphocytes 0.53 G/L
+HEMOSTASE : TP 70 % TCA 1.15 Fibrinogène 2.16 g/L Facteur V 50 % Facteur II 53 % Facteur VII
+41 % Ddimères 4427
+IONOGRAMME SANGUIN :
+Sodium 118 mmol/L Potassium 3.9 mmol/L Chlorure 76 mmol/L Bicarbonate 26 mmol/L
+Protéines sériques 81 g/L Urée 15.1 mmol/L Créatinine 51 µmol/L Calcium 2.32 mmol/L
+Phosphates 1.02 mmol/L Magnésium 0.78 mmol/L Lipase 43 U/L Bilirubine totale 36 µmol/L
+Bilirubine conjuguée 20 µmol/L ASAT 46 U/L ALAT 36 U/L Gamma GT 31 U/L Phosphatases
+alcalines 70 U/L PCT 0.26 µg/L Albumine g/L LDH 260 U/L CPK 125 U/L
+IONOGRAMME URINAIRE : Sodium 20 mmol/L Potassium 10 mmol/L Urée 240 mmol/L Créatinine
+3.5 mmol/L
+BACTERIOLOGIE : ECBU du 04/06 ( en attente )
+Imagerie
+Radiographie thorax: surcharge vasculaire des hiles, pas de foyer de condensation, culs-de-sacs libres.
+TDM abdominal: pas d'ischémie mésentérique, pas de thrombose portale, ascite de grande
+abondance.
+TDM cérébral: pas de saignement intra-crânien, pas de signes d'AVC
+ECG
+Rythme sinusal régulier, pas d'anomalie du ST, ondes Q en DIII et AVF, HBAG, QRS fins.
+Autres
+Ponction liquide d'ascite: protéines 7.2 g/L, liquide jaune trouble, éléments: 90 Leucocytes/mm3.
+ÉVOLUTION
+Patiente admise pour syndrome confusionnel sur hyponatrémie iatrogène dans un contexte de
+décompensation oedémato-ascitique.
+- Sur le plan métabolique:
+Hyponatrémie hypo-osmolaire avec déshydratation extra-cellulaire.
+Correction progressive de la natrémie par arrêt des diurétiques (LASILIX, ALDACTONE et
+HYDROCHLOROTHIAZIDE) et apport de sérum salé hypertonique initialement puis isotonique.
+Natrémie: 07/06: 133 mmol/L
+Alcalose métabolique (pH 7.53 et bircarbonémie à 30) de contraction initiale se corrigeant
+progressivement au cours de la prise en charge. A surveiller.
+- Sur le plan digestif:
+Décompensation oedémato-ascitique d'une cirrhose sur NASH CHILD B8. Encéphalopathie hépatique
+modérée sous Duphalac, pas d'infection du liquide d'ascite, pas d'épisode d'hémorragie digestive. Pas
+d'arguments pour une CHC ni une thrombose porte sur l'imagerie du 27/5.
+Introduction de Tixtar et reprise de l'Aldactone seul 75 mg/j.
+Après reprise du dossier, il s'agit de la 4ème hospitalisation pour décompensation ascitique en moins
+d'un an. La présentation est atypique car parfois l'ascite reste de faible abondance avec plutôt une
+dyspnée et des OMI. La participation cardiaque est peu probable: ascite trans-sudative (protéines a 7
+g/L), ETT du 22/5 avec avis cardiologique du Dr POP.
+Après discussion avec son hépatologue le Pr Roulot, il y a une indication à revoir le dossier au sein
+d'un centre de référence (Jean Verdier) pour une éventuelle pose de TIPS (ascite réfractaire, varices
+oesophagiennes à contrebalancer avec l'encéphalopathie) ou de greffe (ascite réfractaire atypique).
+- Sur le plan neurologique:
+Syndrome confusionnel régressif avec orientation temporo-spatiale correcte à partir du 05/06.
+Pas de signe de focalisation, pas de crise convulsive.
+TDM cérébrale sans argument pour un AVC.
+- Sur le plan infectieux:
+PCT 0,26 µg/L, pas de fièvre, pas de porte d'entrée infectieuse. Pas d'antibiothérapie
+A noter, une paire d'hémocultures positives à Staph epidermidis le 06/06 considérées comme une
+contamination.
+Sur le plan médicamenteux:
+Suspension du traitement antidiabétique par metformine devant l'atcd de cirrhose. Traitement par
+insuline à adapter.
+TRAITEMENT DE SORTIE
+Médicaments
+PO:
+Levothyrox 25 µg/j
+Cholurso 500 mg matin et soir
+Toco 500 1 cp le matin
+Doliprane 1 g/8h si douleur
+Duphalac 2 sachets matin midi et soir
+Aldactone 75 mg matin
+Aérosols:
+Seretide 1 inhalation matin et soir
+Terbutaline 1 inhalation/6h
+SC:
+Lovenox 4000 UI/jour
+Insuline IVSE
+NaCL 0.9% 1000 cc + 2 g de calcium + 2 ampoules de Phocytan
+AU TOTAL
+Patiente de 62 ans hospitalisée pour décompensation oedémato-ascitique d'une cirrhose sur NASH
+avec ascite de moyenne abondance prise en charge en réanimation pour confusion sur épisode
+hyponatrémie iatrogène.
+Evolution favorable après arrêt des diurétiques et apports hydrosodés.
+Evaluation hépatologique à prévoir à Jean Verdier pour éventuelle indication de TIPS ou de
+transplantation.

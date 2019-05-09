@@ -1,0 +1,78 @@
+
+MOTIF D'HOSPITALISATION
+Pneumopathie
+avec décompensation cardiaque et diabétique.
+EXAMEN CLINIQUE A L'ENTRÉE
+Patiente consciente et orientée
+Poids : 72 kg
+TA : 134/69 mmHg, FC 90/min, T° 37.3
+Sur le plan cardiologique : Pas de douleur thoracique, bruits du coeur assourdis d'allure régulière
+et sans souffle perçu, pouls pédieux, tibiaux postérieurs non perçus, pouls radiaux diminués. Pas
+d'oedème des membres inférieurs, mollets souples.
+Sur le plan Respiratoire : toux avec remontée de sécrétions non expectorées par la patiente,
+patiente sous 2L d'O2 avec une sat à 100%, dyspnée de repos avec respiration abdominale, sibilants
+bilatéraux et crépitants en base gauche.
+Sur le plan abdominal : pas de douleur abdominale, pas de trouble du transit, abdomen souple,
+dépressible et indolore.
+Sur le plan Neurologique : pas de céphalées, pas de vertiges, pas de déficit sensitivo moteur,
+examen des paires crâniennes sans particularité. Pas de trouble cognitif
+EXAMENS COMPLÉMENTAIRES RÉALISÉS PENDANT LE SÉJOUR
+Imagerie
+TDM thoracique :
+Apparition de plages en verre dépoli diffuses, bilatérales, avec épaississement des septa
+interlobulaires.
+Épaississement des parois bronchiques avec présence d'impactions mucoïdes.
+Lame d'épanchement pleural bilatéral.
+Pas d'épanchement péricardique.
+Ganglions médiastinaux infracentimétriques.
+Élargissement du tronc des artères pulmonaires (30 mm).
+Cardiomégalie. Rapport VD / VG < 1.
+Calcifications trachéo-bronchiques.
+Athérome aortique et coronarien calcifié.
+Conclusion
+Apparition de plages en verre dépoli diffuses bilatérales pouvant être en rapport avec une étiologie
+infectieuse ou des signes de surcharge cardiogénique, à confronter au bilan clinico-biologique.
+Syndrome bronchique.
+Lame d'épanchement pleural bilatéral.
+Échographie Cardiaque Trans-thoracique du 24/04/2017
+Patiente non mobilisable. ACFA.
+Ventricule gauche non dilaté avec une fonction systolique conservée sans trouble de la cinétique
+segmentaire
+Dilatation bi-auriculaire. Aorte initiale non dilatée.
+Minime insuffisance mitrale et aortique.
+Ventricule droit non dilaté. PAPs normale pour l'âge à 43mmHg. Pas d'élévation des PRVG. VCI peu
+dilatée, compliante.
+Absence d'épanchement péricardique.
+ECG
+Rythme irrégulier en fibrillation atriale lente, ondes T négatives en inféro-latéral bas, pas de sus ou
+sous décalage du segment ST.
+ÉVOLUTION
+Sur le plan Infectieux
+contexte de pneumopathie
+infectieuse lobaire inférieure droite hypoxémiante pour laquelle une antibiothérapie par CIFLOX avait
+été débutée en ville pendant 24 heures, et présentant initialement une CRP à 200 et une PCT à
+13,33. Initialement une antibiothérapie par CLAFORAN et ROVAMYCINE a été mise en place,
+toutefois une hémoculture revenant positive à e.Coli productrice de bétalactamase à spectre étendu,
+un relais par MEROPENEME a été préconisé pour une durée de 7 jours par les infectiologues de
+l'hôpital.
+Dans le suite de cette antibiothérapie l'état septique de la patiente s'est amélioré avec une régression
+du syndrome inflammatoire avec CRP à 19 le 21/04. A noter par ailleurs que les antigénuries
+pneumocoques et légionellose sont revenues négatives.
+Sur le plan Cardiologique
+La patiente a présenté une décompensation cardiaque globale avec crépitants bilatéraux, Oedèmes
+des membres inférieurs prenant le godet et à la biologie NTproBNP à 9336. Un traitement par
+LASILIX IVSE a été mis en place associé à des patchs de TRINITRINE permettant une amélioration
+de la patiente avec régression partielle des signes d'insuffisance cardiaque et une diminution des
+chiffres de NTproBNP à 5000. Une première tentative de sevrage en oxygène et en diurétique IV a
+été réalisée après 10 jours de traitement, mal tolérée par la patiente. Finalement l'état de la patiente
+s'améliore et permet une démédicalisation progressive avec en traitement de fond de la
+DISCOTRINE 5 mg et du LASILIX 40 mg matin et soir per os pour à la biologie des NTproBNP à
+3360, proche de sa valeur de base.
+Une ETT a été réalisée avant la sortie de la patiente retrouvant une fonction systolique conservée
+sans trouble de la cinétique segmentaire .Dilatation bi-auriculaire.
+AU TOTAL
+1) Sepsis sévère a E.coli productrice de bétalactamase à spectre étendu dans un contexte de
+pneumopathie infectieuse hypoxémiante chez une patiente de 89 ans
+2) Décompensation cardiaque globale sur sepsis
+4) ACFA d'allure ancienne pour laquelle l'indication à une anticoagulation au long cours n'a pas été
+retenue.

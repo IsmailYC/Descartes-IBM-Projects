@@ -1,0 +1,702 @@
+	id_sejour	type
+0	337324	diagnostique hyperkaliemie E875 manquant
+1	338396	diagnostique hyperkaliemie E875 manquant
+2	338396	aucune action n'est prise
+3	317820	diagnostique hyperkaliemie E875 manquant
+4	317820	aucune action n'est prise
+5	338627	diagnostique hyperkaliemie E875 manquant
+6	338487	hyperkaliémie non justifiée
+7	349976	hyperkaliémie non justifiée
+8	354301	diagnostique hyperkaliemie E875 manquant
+9	354301	administration de diuretique hyperkaliemiant a un hyperkaliémie
+10	354334	diagnostique hyperkaliemie E875 manquant
+11	354334	administration de supplementation en potassium a un hyperkaliémie
+12	357423	diagnostique hyperkaliemie E875 manquant
+13	357423	aucune action n'est prise
+14	357996	diagnostique hyperkaliemie E875 manquant
+15	358131	diagnostique hyperkaliemie E875 manquant
+16	358635	diagnostique hyperkaliemie E875 manquant
+17	358635	administration de supplementation en potassium a un hyperkaliémie
+18	362179	diagnostique hyperkaliemie E875 manquant
+19	362179	aucune action n'est prise
+20	247987	diagnostique hyperkaliemie E875 manquant
+21	247987	aucune action n'est prise
+22	364889	diagnostique hyperkaliemie E875 manquant
+23	364889	aucune action n'est prise
+24	365972	diagnostique hyperkaliemie E875 manquant
+25	365972	aucune action n'est prise
+26	366449	diagnostique hyperkaliemie E875 manquant
+27	366449	administration de supplementation en potassium a un hyperkaliémie
+28	372629	diagnostique hyperkaliemie E875 manquant
+29	372629	aucune action n'est prise
+30	374138	diagnostique hyperkaliemie E875 manquant
+31	378117	diagnostique hyperkaliemie E875 manquant
+32	378117	aucune action n'est prise
+33	384853	diagnostique hyperkaliemie E875 manquant
+34	339870	diagnostique hyperkaliemie E875 manquant
+35	383212	diagnostique hyperkaliemie E875 manquant
+36	383212	administration de supplementation en potassium a un hyperkaliémie
+37	404060	diagnostique hyperkaliemie E875 manquant
+38	404060	administration de supplementation en potassium a un hyperkaliémie
+39	412927	diagnostique hyperkaliemie E875 manquant
+40	412927	administration de supplementation en potassium a un hyperkaliémie
+41	420534	diagnostique hyperkaliemie E875 manquant
+42	420534	aucune action n'est prise
+43	419878	diagnostique hyperkaliemie E875 manquant
+44	419878	administration de diuretique hyperkaliemiant a un hyperkaliémie
+45	422168	diagnostique hyperkaliemie E875 manquant
+46	422168	aucune action n'est prise
+47	270059	diagnostique hyperkaliemie E875 manquant
+48	270059	aucune action n'est prise
+49	423624	diagnostique hyperkaliemie E875 manquant
+50	423839	administration de supplementation en potassium a un hyperkaliémie
+51	427518	diagnostique hyperkaliemie E875 manquant
+52	427518	administration de diuretique hyperkaliemiant a un hyperkaliémie
+53	428697	diagnostique hyperkaliemie E875 manquant
+54	428697	aucune action n'est prise
+55	430279	diagnostique hyperkaliemie E875 manquant
+56	430279	aucune action n'est prise
+57	438401	diagnostique hyperkaliemie E875 manquant
+58	439247	hyperkaliémie non justifiée
+59	440958	diagnostique hyperkaliemie E875 manquant
+60	442391	hyperkaliémie non justifiée
+61	442771	diagnostique hyperkaliemie E875 manquant
+62	451381	diagnostique hyperkaliemie E875 manquant
+63	450196	diagnostique hyperkaliemie E875 manquant
+64	450196	administration de supplementation en potassium a un hyperkaliémie
+65	451017	diagnostique hyperkaliemie E875 manquant
+66	451017	administration de diuretique hyperkaliemiant a un hyperkaliémie
+67	450554	diagnostique hyperkaliemie E875 manquant
+68	453807	diagnostique hyperkaliemie E875 manquant
+69	453807	aucune action n'est prise
+70	453705	diagnostique hyperkaliemie E875 manquant
+71	453705	aucune action n'est prise
+72	455400	administration de supplementation en potassium a un hyperkaliémie
+73	464836	diagnostique hyperkaliemie E875 manquant
+74	474843	diagnostique hyperkaliemie E875 manquant
+75	474843	aucune action n'est prise
+76	476587	diagnostique hyperkaliemie E875 manquant
+77	476587	aucune action n'est prise
+78	477762	diagnostique hyperkaliemie E875 manquant
+79	477762	administration de supplementation en potassium a un hyperkaliémie
+80	482454	diagnostique hyperkaliemie E875 manquant
+81	482454	aucune action n'est prise
+82	486752	diagnostique hyperkaliemie E875 manquant
+83	486649	aucune action n'est prise
+84	486817	diagnostique hyperkaliemie E875 manquant
+85	486817	aucune action n'est prise
+86	489435	diagnostique hyperkaliemie E875 manquant
+87	489435	aucune action n'est prise
+88	491252	diagnostique hyperkaliemie E875 manquant
+89	494953	diagnostique hyperkaliemie E875 manquant
+90	497025	diagnostique hyperkaliemie E875 manquant
+91	497025	aucune action n'est prise
+92	497378	diagnostique hyperkaliemie E875 manquant
+93	504258	diagnostique hyperkaliemie E875 manquant
+94	506049	hyperkaliémie non justifiée
+95	506035	diagnostique hyperkaliemie E875 manquant
+96	510722	diagnostique hyperkaliemie E875 manquant
+97	510689	diagnostique hyperkaliemie E875 manquant
+98	510689	administration de supplementation en potassium a un hyperkaliémie
+99	511472	diagnostique hyperkaliemie E875 manquant
+100	515824	diagnostique hyperkaliemie E875 manquant
+101	517866	diagnostique hyperkaliemie E875 manquant
+102	531014	diagnostique hyperkaliemie E875 manquant
+103	531014	administration de supplementation en potassium a un hyperkaliémie
+104	531218	aucune action n'est prise
+105	531872	diagnostique hyperkaliemie E875 manquant
+106	531872	aucune action n'est prise
+107	538946	diagnostique hyperkaliemie E875 manquant
+108	546495	diagnostique hyperkaliemie E875 manquant
+109	546853	diagnostique hyperkaliemie E875 manquant
+110	546415	diagnostique hyperkaliemie E875 manquant
+111	551364	diagnostique hyperkaliemie E875 manquant
+112	552587	diagnostique hyperkaliemie E875 manquant
+113	552587	aucune action n'est prise
+114	555044	diagnostique hyperkaliemie E875 manquant
+115	555030	aucune action n'est prise
+116	562528	diagnostique hyperkaliemie E875 manquant
+117	566759	diagnostique hyperkaliemie E875 manquant
+118	568616	diagnostique hyperkaliemie E875 manquant
+119	569242	diagnostique hyperkaliemie E875 manquant
+120	569242	aucune action n'est prise
+121	426424	diagnostique hyperkaliemie E875 manquant
+122	426424	aucune action n'est prise
+123	572328	diagnostique hyperkaliemie E875 manquant
+124	577521	diagnostique hyperkaliemie E875 manquant
+125	578062	diagnostique hyperkaliemie E875 manquant
+126	581238	diagnostique hyperkaliemie E875 manquant
+127	581238	aucune action n'est prise
+128	582481	diagnostique hyperkaliemie E875 manquant
+129	582481	administration de supplementation en potassium a un hyperkaliémie
+130	582861	diagnostique hyperkaliemie E875 manquant
+131	582861	administration de supplementation en potassium a un hyperkaliémie
+132	582657	diagnostique hyperkaliemie E875 manquant
+133	584483	diagnostique hyperkaliemie E875 manquant
+134	584692	diagnostique hyperkaliemie E875 manquant
+135	584874	diagnostique hyperkaliemie E875 manquant
+136	587310	diagnostique hyperkaliemie E875 manquant
+137	587310	aucune action n'est prise
+138	588737	diagnostique hyperkaliemie E875 manquant
+139	588737	administration de supplementation en potassium a un hyperkaliémie
+140	589583	diagnostique hyperkaliemie E875 manquant
+141	589583	aucune action n'est prise
+142	593444	diagnostique hyperkaliemie E875 manquant
+143	593444	aucune action n'est prise
+144	593853	diagnostique hyperkaliemie E875 manquant
+145	593342	administration de supplementation en potassium a un hyperkaliémie
+146	596504	diagnostique hyperkaliemie E875 manquant
+147	479654	diagnostique hyperkaliemie E875 manquant
+148	479654	aucune action n'est prise
+149	597945	diagnostique hyperkaliemie E875 manquant
+150	597945	administration de supplementation en potassium a un hyperkaliémie
+151	599952	diagnostique hyperkaliemie E875 manquant
+152	599952	aucune action n'est prise
+153	602500	diagnostique hyperkaliemie E875 manquant
+154	605646	diagnostique hyperkaliemie E875 manquant
+155	605646	aucune action n'est prise
+156	609322	diagnostique hyperkaliemie E875 manquant
+157	609852	diagnostique hyperkaliemie E875 manquant
+158	611284	diagnostique hyperkaliemie E875 manquant
+159	612400	diagnostique hyperkaliemie E875 manquant
+160	615088	diagnostique hyperkaliemie E875 manquant
+161	615088	aucune action n'est prise
+162	596556	diagnostique hyperkaliemie E875 manquant
+163	615945	diagnostique hyperkaliemie E875 manquant
+164	587599	diagnostique hyperkaliemie E875 manquant
+165	619957	diagnostique hyperkaliemie E875 manquant
+166	619957	aucune action n'est prise
+167	619968	diagnostique hyperkaliemie E875 manquant
+168	619968	administration de diuretique hyperkaliemiant a un hyperkaliémie
+169	621702	diagnostique hyperkaliemie E875 manquant
+170	621702	administration de diuretique hyperkaliemiant a un hyperkaliémie
+171	623090	diagnostique hyperkaliemie E875 manquant
+172	625150	diagnostique hyperkaliemie E875 manquant
+173	628947	diagnostique hyperkaliemie E875 manquant
+174	628933	diagnostique hyperkaliemie E875 manquant
+175	630826	diagnostique hyperkaliemie E875 manquant
+176	630826	aucune action n'est prise
+177	635027	diagnostique hyperkaliemie E875 manquant
+178	635027	aucune action n'est prise
+179	636202	diagnostique hyperkaliemie E875 manquant
+180	636202	administration de supplementation en potassium a un hyperkaliémie
+181	637868	diagnostique hyperkaliemie E875 manquant
+182	642117	diagnostique hyperkaliemie E875 manquant
+183	649718	diagnostique hyperkaliemie E875 manquant
+184	649718	aucune action n'est prise
+185	652168	diagnostique hyperkaliemie E875 manquant
+186	653262	diagnostique hyperkaliemie E875 manquant
+187	654992	diagnostique hyperkaliemie E875 manquant
+188	654992	administration de diuretique hyperkaliemiant a un hyperkaliémie
+189	654992	administration de supplementation en potassium a un hyperkaliémie
+190	658339	diagnostique hyperkaliemie E875 manquant
+191	658339	administration de supplementation en potassium a un hyperkaliémie
+192	624706	diagnostique hyperkaliemie E875 manquant
+193	660279	diagnostique hyperkaliemie E875 manquant
+194	660279	aucune action n'est prise
+195	661067	diagnostique hyperkaliemie E875 manquant
+196	663128	diagnostique hyperkaliemie E875 manquant
+197	665348	diagnostique hyperkaliemie E875 manquant
+198	665348	administration de diuretique hyperkaliemiant a un hyperkaliémie
+199	666271	diagnostique hyperkaliemie E875 manquant
+200	667607	diagnostique hyperkaliemie E875 manquant
+201	667676	diagnostique hyperkaliemie E875 manquant
+202	667676	administration de diuretique hyperkaliemiant a un hyperkaliémie
+203	667676	administration de supplementation en potassium a un hyperkaliémie
+204	668861	administration de supplementation en potassium a un hyperkaliémie
+205	669930	diagnostique hyperkaliemie E875 manquant
+206	670134	diagnostique hyperkaliemie E875 manquant
+207	672165	diagnostique hyperkaliemie E875 manquant
+208	672165	administration de supplementation en potassium a un hyperkaliémie
+209	674415	diagnostique hyperkaliemie E875 manquant
+210	675429	diagnostique hyperkaliemie E875 manquant
+211	675021	diagnostique hyperkaliemie E875 manquant
+212	677231	hyperkaliémie non justifiée
+213	684124	administration de supplementation en potassium a un hyperkaliémie
+214	684708	diagnostique hyperkaliemie E875 manquant
+215	685025	diagnostique hyperkaliemie E875 manquant
+216	685025	aucune action n'est prise
+217	688812	diagnostique hyperkaliemie E875 manquant
+218	690200	diagnostique hyperkaliemie E875 manquant
+219	690528	diagnostique hyperkaliemie E875 manquant
+220	690528	aucune action n'est prise
+221	694241	hyperkaliémie non justifiée
+222	697699	diagnostique hyperkaliemie E875 manquant
+223	697699	administration de diuretique hyperkaliemiant a un hyperkaliémie
+224	698300	diagnostique hyperkaliemie E875 manquant
+225	698300	aucune action n'est prise
+226	701667	diagnostique hyperkaliemie E875 manquant
+227	701667	administration de supplementation en potassium a un hyperkaliémie
+228	701543	diagnostique hyperkaliemie E875 manquant
+229	702039	diagnostique hyperkaliemie E875 manquant
+230	706891	diagnostique hyperkaliemie E875 manquant
+231	706891	administration de supplementation en potassium a un hyperkaliémie
+232	707482	diagnostique hyperkaliemie E875 manquant
+233	707632	diagnostique hyperkaliemie E875 manquant
+234	655297	diagnostique hyperkaliemie E875 manquant
+235	655297	aucune action n'est prise
+236	707514	diagnostique hyperkaliemie E875 manquant
+237	708580	diagnostique hyperkaliemie E875 manquant
+238	713251	diagnostique hyperkaliemie E875 manquant
+239	713251	aucune action n'est prise
+240	716129	diagnostique hyperkaliemie E875 manquant
+241	718879	diagnostique hyperkaliemie E875 manquant
+242	720042	diagnostique hyperkaliemie E875 manquant
+243	720042	aucune action n'est prise
+244	720177	diagnostique hyperkaliemie E875 manquant
+245	720177	aucune action n'est prise
+246	721651	diagnostique hyperkaliemie E875 manquant
+247	721775	diagnostique hyperkaliemie E875 manquant
+248	725634	diagnostique hyperkaliemie E875 manquant
+249	726453	diagnostique hyperkaliemie E875 manquant
+250	726453	administration de supplementation en potassium a un hyperkaliémie
+251	714520	diagnostique hyperkaliemie E875 manquant
+252	733259	diagnostique hyperkaliemie E875 manquant
+253	733259	administration de supplementation en potassium a un hyperkaliémie
+254	734886	diagnostique hyperkaliemie E875 manquant
+255	734649	diagnostique hyperkaliemie E875 manquant
+256	735889	diagnostique hyperkaliemie E875 manquant
+257	738019	diagnostique hyperkaliemie E875 manquant
+258	739970	diagnostique hyperkaliemie E875 manquant
+259	742775	diagnostique hyperkaliemie E875 manquant
+260	742775	administration de diuretique hyperkaliemiant a un hyperkaliémie
+261	742775	administration de supplementation en potassium a un hyperkaliémie
+262	745447	diagnostique hyperkaliemie E875 manquant
+263	746414	diagnostique hyperkaliemie E875 manquant
+264	746414	aucune action n'est prise
+265	745543	diagnostique hyperkaliemie E875 manquant
+266	748365	diagnostique hyperkaliemie E875 manquant
+267	748982	diagnostique hyperkaliemie E875 manquant
+268	748982	aucune action n'est prise
+269	751900	diagnostique hyperkaliemie E875 manquant
+270	751900	aucune action n'est prise
+271	756900	diagnostique hyperkaliemie E875 manquant
+272	756900	aucune action n'est prise
+273	756867	diagnostique hyperkaliemie E875 manquant
+274	756867	aucune action n'est prise
+275	757553	diagnostique hyperkaliemie E875 manquant
+276	757553	aucune action n'est prise
+277	758504	diagnostique hyperkaliemie E875 manquant
+278	767783	diagnostique hyperkaliemie E875 manquant
+279	767783	administration de supplementation en potassium a un hyperkaliémie
+280	766598	diagnostique hyperkaliemie E875 manquant
+281	774432	diagnostique hyperkaliemie E875 manquant
+282	776473	hyperkaliémie non justifiée
+283	777010	diagnostique hyperkaliemie E875 manquant
+284	781033	diagnostique hyperkaliemie E875 manquant
+285	781033	administration de supplementation en potassium a un hyperkaliémie
+286	785336	diagnostique hyperkaliemie E875 manquant
+287	785336	aucune action n'est prise
+288	789728	diagnostique hyperkaliemie E875 manquant
+289	789728	administration de supplementation en potassium a un hyperkaliémie
+290	793783	diagnostique hyperkaliemie E875 manquant
+291	795924	diagnostique hyperkaliemie E875 manquant
+292	797539	diagnostique hyperkaliemie E875 manquant
+293	797539	aucune action n'est prise
+294	807362	diagnostique hyperkaliemie E875 manquant
+295	808242	diagnostique hyperkaliemie E875 manquant
+296	808445	diagnostique hyperkaliemie E875 manquant
+297	813005	diagnostique hyperkaliemie E875 manquant
+298	813391	diagnostique hyperkaliemie E875 manquant
+299	813391	aucune action n'est prise
+300	815426	diagnostique hyperkaliemie E875 manquant
+301	813847	diagnostique hyperkaliemie E875 manquant
+302	818537	diagnostique hyperkaliemie E875 manquant
+303	818556	diagnostique hyperkaliemie E875 manquant
+304	824088	diagnostique hyperkaliemie E875 manquant
+305	824088	administration de supplementation en potassium a un hyperkaliémie
+306	825522	diagnostique hyperkaliemie E875 manquant
+307	825522	administration de supplementation en potassium a un hyperkaliémie
+308	825744	diagnostique hyperkaliemie E875 manquant
+309	825744	aucune action n'est prise
+310	826240	diagnostique hyperkaliemie E875 manquant
+311	827623	diagnostique hyperkaliemie E875 manquant
+312	827842	diagnostique hyperkaliemie E875 manquant
+313	827842	aucune action n'est prise
+314	827703	diagnostique hyperkaliemie E875 manquant
+315	827703	aucune action n'est prise
+316	827874	diagnostique hyperkaliemie E875 manquant
+317	827874	administration de supplementation en potassium a un hyperkaliémie
+318	828508	diagnostique hyperkaliemie E875 manquant
+319	828508	aucune action n'est prise
+320	829789	diagnostique hyperkaliemie E875 manquant
+321	833344	diagnostique hyperkaliemie E875 manquant
+322	835321	diagnostique hyperkaliemie E875 manquant
+323	835321	aucune action n'est prise
+324	835346	diagnostique hyperkaliemie E875 manquant
+325	835142	diagnostique hyperkaliemie E875 manquant
+326	835142	aucune action n'est prise
+327	835566	diagnostique hyperkaliemie E875 manquant
+328	836393	aucune action n'est prise
+329	832594	diagnostique hyperkaliemie E875 manquant
+330	837134	diagnostique hyperkaliemie E875 manquant
+331	837134	administration de supplementation en potassium a un hyperkaliémie
+332	844154	diagnostique hyperkaliemie E875 manquant
+333	844154	aucune action n'est prise
+334	844165	diagnostique hyperkaliemie E875 manquant
+335	840843	diagnostique hyperkaliemie E875 manquant
+336	840843	administration de supplementation en potassium a un hyperkaliémie
+337	848414	diagnostique hyperkaliemie E875 manquant
+338	848414	aucune action n'est prise
+339	848659	diagnostique hyperkaliemie E875 manquant
+340	848659	administration de supplementation en potassium a un hyperkaliémie
+341	852324	diagnostique hyperkaliemie E875 manquant
+342	852324	administration de supplementation en potassium a un hyperkaliémie
+343	853170	diagnostique hyperkaliemie E875 manquant
+344	853170	aucune action n'est prise
+345	855114	diagnostique hyperkaliemie E875 manquant
+346	863776	diagnostique hyperkaliemie E875 manquant
+347	867981	diagnostique hyperkaliemie E875 manquant
+348	876709	diagnostique hyperkaliemie E875 manquant
+349	876709	aucune action n'est prise
+350	878528	diagnostique hyperkaliemie E875 manquant
+351	878528	aucune action n'est prise
+352	878751	diagnostique hyperkaliemie E875 manquant
+353	879262	diagnostique hyperkaliemie E875 manquant
+354	879262	aucune action n'est prise
+355	884532	diagnostique hyperkaliemie E875 manquant
+356	884532	aucune action n'est prise
+357	789957	diagnostique hyperkaliemie E875 manquant
+358	789957	aucune action n'est prise
+359	886837	diagnostique hyperkaliemie E875 manquant
+360	886837	administration de supplementation en potassium a un hyperkaliémie
+361	887559	diagnostique hyperkaliemie E875 manquant
+362	887898	diagnostique hyperkaliemie E875 manquant
+363	742572	diagnostique hyperkaliemie E875 manquant
+364	742572	aucune action n'est prise
+365	890210	diagnostique hyperkaliemie E875 manquant
+366	890210	aucune action n'est prise
+367	890334	diagnostique hyperkaliemie E875 manquant
+368	894951	diagnostique hyperkaliemie E875 manquant
+369	896417	diagnostique hyperkaliemie E875 manquant
+370	896417	administration de supplementation en potassium a un hyperkaliémie
+371	897745	diagnostique hyperkaliemie E875 manquant
+372	899897	diagnostique hyperkaliemie E875 manquant
+373	899897	aucune action n'est prise
+374	900305	diagnostique hyperkaliemie E875 manquant
+375	900305	aucune action n'est prise
+376	900440	diagnostique hyperkaliemie E875 manquant
+377	900440	administration de diuretique hyperkaliemiant a un hyperkaliémie
+378	900550	diagnostique hyperkaliemie E875 manquant
+379	900562	diagnostique hyperkaliemie E875 manquant
+380	900562	aucune action n'est prise
+381	903903	diagnostique hyperkaliemie E875 manquant
+382	903903	aucune action n'est prise
+383	906353	diagnostique hyperkaliemie E875 manquant
+384	906466	diagnostique hyperkaliemie E875 manquant
+385	906444	diagnostique hyperkaliemie E875 manquant
+386	909877	diagnostique hyperkaliemie E875 manquant
+387	909877	aucune action n'est prise
+388	910456	diagnostique hyperkaliemie E875 manquant
+389	910456	aucune action n'est prise
+390	910467	diagnostique hyperkaliemie E875 manquant
+391	911482	diagnostique hyperkaliemie E875 manquant
+392	911482	administration de supplementation en potassium a un hyperkaliémie
+393	911610	administration de supplementation en potassium a un hyperkaliémie
+394	912649	diagnostique hyperkaliemie E875 manquant
+395	914067	diagnostique hyperkaliemie E875 manquant
+396	914067	administration de diuretique hyperkaliemiant a un hyperkaliémie
+397	914067	administration de supplementation en potassium a un hyperkaliémie
+398	916781	diagnostique hyperkaliemie E875 manquant
+399	917076	diagnostique hyperkaliemie E875 manquant
+400	917076	aucune action n'est prise
+401	917528	diagnostique hyperkaliemie E875 manquant
+402	917528	administration de diuretique hyperkaliemiant a un hyperkaliémie
+403	917528	administration de supplementation en potassium a un hyperkaliémie
+404	920633	diagnostique hyperkaliemie E875 manquant
+405	928389	diagnostique hyperkaliemie E875 manquant
+406	932905	diagnostique hyperkaliemie E875 manquant
+407	936924	diagnostique hyperkaliemie E875 manquant
+408	936924	aucune action n'est prise
+409	940994	administration de diuretique hyperkaliemiant a un hyperkaliémie
+410	940994	administration de supplementation en potassium a un hyperkaliémie
+411	942314	diagnostique hyperkaliemie E875 manquant
+412	942314	administration de supplementation en potassium a un hyperkaliémie
+413	942427	diagnostique hyperkaliemie E875 manquant
+414	942427	administration de diuretique hyperkaliemiant a un hyperkaliémie
+415	942427	administration de supplementation en potassium a un hyperkaliémie
+416	942650	diagnostique hyperkaliemie E875 manquant
+417	945035	diagnostique hyperkaliemie E875 manquant
+418	943944	diagnostique hyperkaliemie E875 manquant
+419	946289	diagnostique hyperkaliemie E875 manquant
+420	946289	administration de diuretique hyperkaliemiant a un hyperkaliémie
+421	946289	administration de supplementation en potassium a un hyperkaliémie
+422	947716	hyperkaliémie non justifiée
+423	947956	diagnostique hyperkaliemie E875 manquant
+424	947956	administration de supplementation en potassium a un hyperkaliémie
+425	949196	diagnostique hyperkaliemie E875 manquant
+426	949196	aucune action n'est prise
+427	949554	diagnostique hyperkaliemie E875 manquant
+428	949554	aucune action n'est prise
+429	556617	diagnostique hyperkaliemie E875 manquant
+430	556617	aucune action n'est prise
+431	952161	diagnostique hyperkaliemie E875 manquant
+432	952161	administration de diuretique hyperkaliemiant a un hyperkaliémie
+433	959131	diagnostique hyperkaliemie E875 manquant
+434	959484	diagnostique hyperkaliemie E875 manquant
+435	959484	administration de supplementation en potassium a un hyperkaliémie
+436	959839	diagnostique hyperkaliemie E875 manquant
+437	959839	administration de supplementation en potassium a un hyperkaliémie
+438	961344	diagnostique hyperkaliemie E875 manquant
+439	962424	diagnostique hyperkaliemie E875 manquant
+440	962837	diagnostique hyperkaliemie E875 manquant
+441	962837	aucune action n'est prise
+442	964131	diagnostique hyperkaliemie E875 manquant
+443	964131	administration de supplementation en potassium a un hyperkaliémie
+444	964624	diagnostique hyperkaliemie E875 manquant
+445	964784	diagnostique hyperkaliemie E875 manquant
+446	964784	administration de supplementation en potassium a un hyperkaliémie
+447	965532	diagnostique hyperkaliemie E875 manquant
+448	967884	diagnostique hyperkaliemie E875 manquant
+449	968742	diagnostique hyperkaliemie E875 manquant
+450	970050	diagnostique hyperkaliemie E875 manquant
+451	970050	aucune action n'est prise
+452	968865	diagnostique hyperkaliemie E875 manquant
+453	970926	hyperkaliémie non justifiée
+454	973522	diagnostique hyperkaliemie E875 manquant
+455	973522	administration de diuretique hyperkaliemiant a un hyperkaliémie
+456	973522	administration de supplementation en potassium a un hyperkaliémie
+457	977031	diagnostique hyperkaliemie E875 manquant
+458	978376	diagnostique hyperkaliemie E875 manquant
+459	980726	aucune action n'est prise
+460	981021	diagnostique hyperkaliemie E875 manquant
+461	856927	diagnostique hyperkaliemie E875 manquant
+462	856927	aucune action n'est prise
+463	985415	diagnostique hyperkaliemie E875 manquant
+464	985415	administration de supplementation en potassium a un hyperkaliémie
+465	857007	diagnostique hyperkaliemie E875 manquant
+466	857007	aucune action n'est prise
+467	988826	diagnostique hyperkaliemie E875 manquant
+468	991025	diagnostique hyperkaliemie E875 manquant
+469	991025	administration de supplementation en potassium a un hyperkaliémie
+470	994442	aucune action n'est prise
+471	929907	diagnostique hyperkaliemie E875 manquant
+472	929907	aucune action n'est prise
+473	1000357	diagnostique hyperkaliemie E875 manquant
+474	1000357	aucune action n'est prise
+475	1003286	diagnostique hyperkaliemie E875 manquant
+476	1004148	diagnostique hyperkaliemie E875 manquant
+477	1005446	hyperkaliémie non justifiée
+478	1010682	diagnostique hyperkaliemie E875 manquant
+479	1011475	diagnostique hyperkaliemie E875 manquant
+480	1012511	diagnostique hyperkaliemie E875 manquant
+481	1012511	aucune action n'est prise
+482	1015805	diagnostique hyperkaliemie E875 manquant
+483	1015805	administration de diuretique hyperkaliemiant a un hyperkaliémie
+484	1017343	diagnostique hyperkaliemie E875 manquant
+485	1019649	diagnostique hyperkaliemie E875 manquant
+486	1019649	administration de supplementation en potassium a un hyperkaliémie
+487	1020134	diagnostique hyperkaliemie E875 manquant
+488	1023438	diagnostique hyperkaliemie E875 manquant
+489	1023438	aucune action n'est prise
+490	1023202	diagnostique hyperkaliemie E875 manquant
+491	1024784	diagnostique hyperkaliemie E875 manquant
+492	1024167	diagnostique hyperkaliemie E875 manquant
+493	1024167	administration de supplementation en potassium a un hyperkaliémie
+494	1027622	diagnostique hyperkaliemie E875 manquant
+495	1027622	aucune action n'est prise
+496	1027837	hyperkaliémie non justifiée
+497	962724	diagnostique hyperkaliemie E875 manquant
+498	1030072	diagnostique hyperkaliemie E875 manquant
+499	1031462	diagnostique hyperkaliemie E875 manquant
+500	1031816	diagnostique hyperkaliemie E875 manquant
+501	1031816	aucune action n'est prise
+502	979412	diagnostique hyperkaliemie E875 manquant
+503	979412	aucune action n'est prise
+504	1042071	diagnostique hyperkaliemie E875 manquant
+505	1042071	administration de supplementation en potassium a un hyperkaliémie
+506	1041992	diagnostique hyperkaliemie E875 manquant
+507	1043574	diagnostique hyperkaliemie E875 manquant
+508	1048771	diagnostique hyperkaliemie E875 manquant
+509	1052028	diagnostique hyperkaliemie E875 manquant
+510	1052028	aucune action n'est prise
+511	1056535	diagnostique hyperkaliemie E875 manquant
+512	958139	diagnostique hyperkaliemie E875 manquant
+513	958139	aucune action n'est prise
+514	1060712	diagnostique hyperkaliemie E875 manquant
+515	1058464	diagnostique hyperkaliemie E875 manquant
+516	1064183	diagnostique hyperkaliemie E875 manquant
+517	1064665	diagnostique hyperkaliemie E875 manquant
+518	1064665	administration de supplementation en potassium a un hyperkaliémie
+519	1061349	diagnostique hyperkaliemie E875 manquant
+520	1066233	diagnostique hyperkaliemie E875 manquant
+521	1066233	aucune action n'est prise
+522	1067652	diagnostique hyperkaliemie E875 manquant
+523	1067652	aucune action n'est prise
+524	1015682	diagnostique hyperkaliemie E875 manquant
+525	1072480	administration de supplementation en potassium a un hyperkaliémie
+526	1073962	diagnostique hyperkaliemie E875 manquant
+527	1073962	administration de supplementation en potassium a un hyperkaliémie
+528	1076204	diagnostique hyperkaliemie E875 manquant
+529	1076204	aucune action n'est prise
+530	1076948	diagnostique hyperkaliemie E875 manquant
+531	1076948	aucune action n'est prise
+532	1081241	aucune action n'est prise
+533	963292	diagnostique hyperkaliemie E875 manquant
+534	963292	aucune action n'est prise
+535	1091452	diagnostique hyperkaliemie E875 manquant
+536	1091452	administration de diuretique hyperkaliemiant a un hyperkaliémie
+537	1097124	diagnostique hyperkaliemie E875 manquant
+538	1097124	aucune action n'est prise
+539	1097215	diagnostique hyperkaliemie E875 manquant
+540	1097832	diagnostique hyperkaliemie E875 manquant
+541	1069782	diagnostique hyperkaliemie E875 manquant
+542	1069782	aucune action n'est prise
+543	1102241	diagnostique hyperkaliemie E875 manquant
+544	1105795	diagnostique hyperkaliemie E875 manquant
+545	1105795	administration de diuretique hyperkaliemiant a un hyperkaliémie
+546	1108278	diagnostique hyperkaliemie E875 manquant
+547	1108278	aucune action n'est prise
+548	1108358	diagnostique hyperkaliemie E875 manquant
+549	1108358	aucune action n'est prise
+550	1100808	diagnostique hyperkaliemie E875 manquant
+551	1100808	administration de diuretique hyperkaliemiant a un hyperkaliémie
+552	1110047	diagnostique hyperkaliemie E875 manquant
+553	1110686	diagnostique hyperkaliemie E875 manquant
+554	1114041	diagnostique hyperkaliemie E875 manquant
+555	1114041	aucune action n'est prise
+556	1113282	diagnostique hyperkaliemie E875 manquant
+557	1119913	diagnostique hyperkaliemie E875 manquant
+558	1119913	aucune action n'est prise
+559	1121853	hyperkaliémie non justifiée
+560	1125759	diagnostique hyperkaliemie E875 manquant
+561	1133290	aucune action n'est prise
+562	1135110	diagnostique hyperkaliemie E875 manquant
+563	1135110	administration de supplementation en potassium a un hyperkaliémie
+564	1135898	diagnostique hyperkaliemie E875 manquant
+565	1137152	diagnostique hyperkaliemie E875 manquant
+566	1137849	diagnostique hyperkaliemie E875 manquant
+567	1145924	diagnostique hyperkaliemie E875 manquant
+568	1145924	aucune action n'est prise
+569	1146084	diagnostique hyperkaliemie E875 manquant
+570	1146084	administration de supplementation en potassium a un hyperkaliémie
+571	1146482	diagnostique hyperkaliemie E875 manquant
+572	1149432	diagnostique hyperkaliemie E875 manquant
+573	1152532	diagnostique hyperkaliemie E875 manquant
+574	1155680	diagnostique hyperkaliemie E875 manquant
+575	1156463	diagnostique hyperkaliemie E875 manquant
+576	1156463	administration de supplementation en potassium a un hyperkaliémie
+577	1157375	diagnostique hyperkaliemie E875 manquant
+578	1158243	diagnostique hyperkaliemie E875 manquant
+579	1158243	aucune action n'est prise
+580	1158400	diagnostique hyperkaliemie E875 manquant
+581	1162073	diagnostique hyperkaliemie E875 manquant
+582	1162073	administration de supplementation en potassium a un hyperkaliémie
+583	1161654	diagnostique hyperkaliemie E875 manquant
+584	1170152	diagnostique hyperkaliemie E875 manquant
+585	1170152	aucune action n'est prise
+586	1171669	diagnostique hyperkaliemie E875 manquant
+587	1171669	administration de supplementation en potassium a un hyperkaliémie
+588	1172625	diagnostique hyperkaliemie E875 manquant
+589	1176493	diagnostique hyperkaliemie E875 manquant
+590	1176772	diagnostique hyperkaliemie E875 manquant
+591	1176772	administration de supplementation en potassium a un hyperkaliémie
+592	1126292	diagnostique hyperkaliemie E875 manquant
+593	1126292	aucune action n'est prise
+594	1183832	diagnostique hyperkaliemie E875 manquant
+595	1183832	aucune action n'est prise
+596	1187629	diagnostique hyperkaliemie E875 manquant
+597	1187629	administration de diuretique hyperkaliemiant a un hyperkaliémie
+598	1187629	administration de supplementation en potassium a un hyperkaliémie
+599	1187574	diagnostique hyperkaliemie E875 manquant
+600	1186475	diagnostique hyperkaliemie E875 manquant
+601	1186475	administration de diuretique hyperkaliemiant a un hyperkaliémie
+602	1187665	diagnostique hyperkaliemie E875 manquant
+603	1187665	administration de supplementation en potassium a un hyperkaliémie
+604	1187869	diagnostique hyperkaliemie E875 manquant
+605	1187869	aucune action n'est prise
+606	1188459	diagnostique hyperkaliemie E875 manquant
+607	1188459	administration de diuretique hyperkaliemiant a un hyperkaliémie
+608	1190123	diagnostique hyperkaliemie E875 manquant
+609	1190123	administration de supplementation en potassium a un hyperkaliémie
+610	1193350	diagnostique hyperkaliemie E875 manquant
+611	1149297	diagnostique hyperkaliemie E875 manquant
+612	1149297	aucune action n'est prise
+613	1197545	diagnostique hyperkaliemie E875 manquant
+614	1197545	administration de supplementation en potassium a un hyperkaliémie
+615	1197472	diagnostique hyperkaliemie E875 manquant
+616	1199653	diagnostique hyperkaliemie E875 manquant
+617	1201268	diagnostique hyperkaliemie E875 manquant
+618	1201450	diagnostique hyperkaliemie E875 manquant
+619	828078	diagnostique hyperkaliemie E875 manquant
+620	1202235	diagnostique hyperkaliemie E875 manquant
+621	1203445	diagnostique hyperkaliemie E875 manquant
+622	1203445	aucune action n'est prise
+623	1206153	diagnostique hyperkaliemie E875 manquant
+624	1206153	administration de supplementation en potassium a un hyperkaliémie
+625	1206084	diagnostique hyperkaliemie E875 manquant
+626	1206084	administration de supplementation en potassium a un hyperkaliémie
+627	1207930	aucune action n'est prise
+628	1209432	diagnostique hyperkaliemie E875 manquant
+629	1211705	hyperkaliémie non justifiée
+630	1214644	diagnostique hyperkaliemie E875 manquant
+631	1214534	diagnostique hyperkaliemie E875 manquant
+632	1218287	diagnostique hyperkaliemie E875 manquant
+633	1218287	aucune action n'est prise
+634	1219232	diagnostique hyperkaliemie E875 manquant
+635	1220475	diagnostique hyperkaliemie E875 manquant
+636	1220032	diagnostique hyperkaliemie E875 manquant
+637	1221205	diagnostique hyperkaliemie E875 manquant
+638	1221296	diagnostique hyperkaliemie E875 manquant
+639	1221574	diagnostique hyperkaliemie E875 manquant
+640	1222850	diagnostique hyperkaliemie E875 manquant
+641	1222850	administration de supplementation en potassium a un hyperkaliémie
+642	1222702	diagnostique hyperkaliemie E875 manquant
+643	1227781	diagnostique hyperkaliemie E875 manquant
+644	1228054	diagnostique hyperkaliemie E875 manquant
+645	1228897	diagnostique hyperkaliemie E875 manquant
+646	1212386	diagnostique hyperkaliemie E875 manquant
+647	1212386	aucune action n'est prise
+648	1231165	diagnostique hyperkaliemie E875 manquant
+649	1231165	aucune action n'est prise
+650	1232518	diagnostique hyperkaliemie E875 manquant
+651	1233000	diagnostique hyperkaliemie E875 manquant
+652	1235936	hyperkaliémie non justifiée
+653	1235104	diagnostique hyperkaliemie E875 manquant
+654	1214722	hyperkaliémie non justifiée
+655	1244174	diagnostique hyperkaliemie E875 manquant
+656	1244174	administration de supplementation en potassium a un hyperkaliémie
+657	1245414	diagnostique hyperkaliemie E875 manquant
+658	1246100	diagnostique hyperkaliemie E875 manquant
+659	1246271	hyperkaliémie non justifiée
+660	1246508	diagnostique hyperkaliemie E875 manquant
+661	1247574	diagnostique hyperkaliemie E875 manquant
+662	1218061	diagnostique hyperkaliemie E875 manquant
+663	1218061	aucune action n'est prise
+664	1248782	diagnostique hyperkaliemie E875 manquant
+665	1251881	diagnostique hyperkaliemie E875 manquant
+666	1252402	diagnostique hyperkaliemie E875 manquant
+667	1248734	diagnostique hyperkaliemie E875 manquant
+668	1254853	diagnostique hyperkaliemie E875 manquant
+669	1255845	diagnostique hyperkaliemie E875 manquant
+670	1263227	diagnostique hyperkaliemie E875 manquant
+671	1265389	diagnostique hyperkaliemie E875 manquant
+672	1264510	diagnostique hyperkaliemie E875 manquant
+673	1266965	diagnostique hyperkaliemie E875 manquant
+674	1267541	diagnostique hyperkaliemie E875 manquant
+675	1267541	aucune action n'est prise
+676	1278052	diagnostique hyperkaliemie E875 manquant
+677	1285000	diagnostique hyperkaliemie E875 manquant
+678	1285000	administration de diuretique hyperkaliemiant a un hyperkaliémie
+679	1285000	administration de supplementation en potassium a un hyperkaliémie
+680	1286871	hyperkaliémie non justifiée
+681	1286469	diagnostique hyperkaliemie E875 manquant
+682	1286469	aucune action n'est prise
+683	1288541	diagnostique hyperkaliemie E875 manquant
+684	1289002	diagnostique hyperkaliemie E875 manquant
+685	1290646	diagnostique hyperkaliemie E875 manquant
+686	1290646	administration de diuretique hyperkaliemiant a un hyperkaliémie
+687	1252300	diagnostique hyperkaliemie E875 manquant
+688	1252300	aucune action n'est prise
+689	1299027	diagnostique hyperkaliemie E875 manquant
+690	1299027	aucune action n'est prise
+691	1299504	diagnostique hyperkaliemie E875 manquant
+692	1301364	diagnostique hyperkaliemie E875 manquant
+693	1303436	diagnostique hyperkaliemie E875 manquant
+694	1304152	diagnostique hyperkaliemie E875 manquant
+695	1305462	diagnostique hyperkaliemie E875 manquant
+696	1306282	diagnostique hyperkaliemie E875 manquant
+697	1306282	aucune action n'est prise
+698	1309247	diagnostique hyperkaliemie E875 manquant
+699	1309817	diagnostique hyperkaliemie E875 manquant
+700	1303414	diagnostique hyperkaliemie E875 manquant

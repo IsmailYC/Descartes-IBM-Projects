@@ -1,0 +1,98 @@
+MOTIF D'HOSPITALISATION
+Décompensation
+cardiaque globale associée à un OAP.
+PARAMÈTRES VITAUX ET DONNÉES BIOMÉTRIQUES A L'ENTRÉE
+Poids : 80 kg (Poids habituel : 78 kg), taille : 178 cm, IMC : 25.2kg/m2, SC 2.0 m2
+Evaluation de la douleur : non algique
+EXAMEN CLINIQUE A L'ENTRÉE
+Etat général : patient non dyspnéique, mais asthénique depuis 1 mois, sans amaigrissement ni
+anorexie
+Poids = 82 kg, taille = 1 m 78
+TA = 110/60 mmHg, FC = 85/min, °C= 36,3 °C, saturation (AA) = 95 %
+Examen cardiovasculaire : pas de douleur thoracique, pas de dyspnée d’effort, pas de palpitations,
+pas d'hépatalgie d'effort, pas de lipothymie, pas de syncope. Bruits du cœur réguliers avec souffle
+holosystolique. Insuffisance cardiaque gauche avec crépitants en base gauche et apical droit, sans
+orthopnée, sans choc de pointe. Insuffisance cardiaque droite avec présence d'OMI prenant le godet,
+blanc, mous et légèrement douloureux jusqu'aux cuisses +++++, doute sur turgescence jugulaire,
+pas de reflux hépato-jugulaire, pas de signe de Harzer, pas d'ascite, pas d'hépatomégalie. Pas de
+claudication intermittente. Pouls périphériques perçus. Pas de souffle abdominal. Pas de signe de
+phlébite. Mollets souples et indolores. Pas de signe de Homans.
+Examen pulmonaire : pas d’hippocratisme digital, pas de cyanose, pas d'irritabilité/agitation, pas de
+sueurs. Pas de dyspnée, pas de toux, pas d'expectoration, pas d'hémoptysie, pas de hoquets
+fréquents, pas de SAOS a priori. Auscultation pulmonaire : Murmure vésiculaire bilatéral symétrique
+avec quelques crépitants en base gauche et apical droit. FR = 20/min.
+Examen abdominal : pas de nausée, pas de vomissement, pas de reflux gastro-oesophagien, pas
+de trouble du transit, pas de douleurs abdominales, pas de syndrome oesophagien, pas de
+rectorragies. Abdomen souple, indolore, sans masse palpable, pas d’hépatosplénomégalie. BHA +.
+Orifices herniaires libres.
+Examen uro-néphrologique : pas de signe fonctionnel urinaire, pas de contact lombaire.
+Examen neurologique : Glasgow à 15, pas de DTS, pas de céphalées, pas de vertiges, pas de
+déficit sensitivo-moteur, acouphènes habituels congénitaux. Paires crâniennes normales. Réflexes
+cutanés plantaires indifférents. Réflexes ostéotendineux : rotulien et bicipital présents et symétriques.
+Pas de syndrome pyramidal, pas de syndrome extra-pyramidal, pas de syndrome cérébelleux. Pas
+de signe de Babinski.
+Examen cutané : présence de lésions desquameuses dans un contexte de psoriasis connu.
+Présence d'intertrigo aux deux pieds. Etat bucco-dentaire : édenté (porte un appareil dentaire pour
+manger).
+Aires ganglionnaires : libres.
+EXAMENS COMPLÉMENTAIRES RÉALISÉS PENDANT LE SÉJOUR
+ECG
+ECG 
+- fréquence = 100 bpm
+- rythme sinusal et régulier
+- axe normal non dévié
+- conduction : qRs microvolté en D2, fins
+- pas de sus ou sous décalage ST
+- aspect d'ondes T plates
+- aspect RSR' en aVf et V1 : BBD incomplet ?
+ÉVOLUTION
+Contexte : décompensation cardiaque globale chez un patient aux antécédents
+d’hypertension artérielle et de psoriasis vulgaire.
+1) Sur le plan cardiologique :
+A l’arrivée dans le service le patient présentait des signes majeurs de décompensation cardiaque
+droite avec des oedèmes des membres inférieurs volumineux prenant le godet remontant jusqu’aux
+lombes, un hydrocèle des deux testicules ainsi qu’une turgescence des jugulaires majeurs. Il
+présentait aussi des signes d’insuffisance cardiaque gauche avec des crépitants aux deux bases
+majorés à gauche.
+Dans ce contexte une déplétion par seringue électrique de Furosémide à hauteur de 80 mg par 24
+heures a été débutée. Le patient ayant des tensions situées à 110/50 sous trithérapie par Eupressyl
+Aprovel et inhibiteur calcique, ll a été décidé d’arrêter ce dernier celui-ci étant pourvoyeur, par
+ailleurs, d’oedèmes des membres inférieurs.
+Un gaz du sang réalisé le jour de son entrée montrait une alcalose respiratoire et un effet shunt avec
+une hypocapnie à 28,2 mmHg et une hypoxémie à 75,6 mmHg.
+Le patient étant en insuffisance rénale, un angioscanner n'a pu être réalisé et une scintigraphie a été
+demandée à distance de l’épisode aigu pour pouvoir formellement éliminer une embolie pulmonaire.
+Une anticoagulation curative par HNF a été débutée dès son entrée. Ce diagnostic a pu par la suite
+et grâce à la scintigraphie pulmonaire être éliminé.
+En résumé, en terme de facteurs déclencheurs :
+• IdM ou angor : non
+• EP (TVP) : non
+• Infection (surinfection bronchique, pneumopathie…) : oui un sepsis à point de départ urinaire
+pour lequel il a reçu en probabiliste du Claforan pendant 3 jours. Après obtention de l'antibiogramme,
+il a reçu un traitement d'Oflocet en dose adaptée à son insuffisance rénale modérée.
+• Non observance (écart de régime sans sel) : probablement
+• Arrêt du traitement, particulièrement les diurétiques : non
+• Traitement bradycardisant ou I- : non
+• Insuffisance rénale d’apparition récente ou de majoration d’une insuffisance rénale connue :
+oui => MRDR = 37 ml/min/1,73 m2
+• Troubles du rythme récent : non, Passage en FA rapide : non
+• Pace maker : non
+• Insuffisance respiratoire chronique associée (asthme, BPCO, autres) : non
+• Valvulopathie aiguë : non
+• Autres :
+- anémie : non
+- Dysthyroïdie : non, TSH = 2,8 mU/L
+• AVC : non
+• Post chirurgie : non
+• Abus d’alcool et/ou de drogues : non
+2) Sur le plan nutritionnel le patient a une alimentation variée et structurée, à risque d'apports
+insuffisants en sources protidiques, des apports estimés modérés à 6-8 g/j en NaCl et
+récemment contrôlés.
+Des conseils afin d'aider à la compréhension et l'application des recommandations diététiques
+globales (prévenir l'excès de sel et le risque de dénutrition), un avis diététique lui a été proposé.
+Lors de sa sortie son traitement de fond par Eupressyl a été arrêté au vu des tensions basses. Après
+l'ETT du Lasilix en traitement de fond a été instauré ainsi que des patch de Discotrine.
+AU TOTAL
+Tableau en faveur d'une décompensation cardiaque modérée d'evolution favorable chez un patient
+antécédents d'HTA, probable cardiopathie ischémique non suivie et d'une
+psoriasis avec doute sur des écarts de régime salés et prostatite à E Coli.
